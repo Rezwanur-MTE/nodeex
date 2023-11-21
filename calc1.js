@@ -1,0 +1,1 @@
+console.log(" Writing file from another module")
